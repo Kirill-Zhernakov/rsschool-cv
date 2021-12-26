@@ -44,3 +44,8 @@ I don't have one yet, but i intend to study to get a job.
 + HTML/CSS, Bootstrap3 (https://fructcode.com/ru/);
 + Javascript for beginners (https://stepik.org/);
 + other courses, including on https://www.youtube.com/.
+
+
+**Language:**
+****
+English level - A2
