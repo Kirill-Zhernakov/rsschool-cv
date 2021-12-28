@@ -1,0 +1,87 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	background-color: rgb(241, 245, 225);
+	font-size: 22px;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    margin: 5px;
+    width: 130px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+    border-bottom: rgb(246, 186, 113) 5px solid;
+}
+
+#aboutmyself  {
+    margin: 3% 15%;
+    font-size: 140%;
+    float: left;
+}
+
+#aboutmyself h1 {
+    letter-spacing: 3px;
+}
+
+#contacts, #skills, #experience {
+    margin-left: 15%;
+    margin-top: 3%;
+    font-size: 140%;
+}
+
+.list {
+    margin-left: 2%;
+}
+
+#code {
+    margin-left: 15%;
+    margin-top: 3%;
+    font-size: 140%;
+}
+
+#code div {
+    background-color: white; 
+    margin-right: 15%;
+}    
+
+#language {
+    margin-left: 15%;
+    margin-top: 3%;
+    font-size: 140%;
+    margin-bottom: 3%;
+}
+
+footer:before {
+   content: '';
+   display: inline-block;
+   height: 100%;
+   vertical-align: middle;
+}
+
+footer {
+    height:100px;
+    width: 100%; 
+    text-align: center;
+}
+
+footer p {
+    font-size: 22px; 
+    display: inline-block;
+    vertical-align: middle;
+}
